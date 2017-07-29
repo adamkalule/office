@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.col-md-1{
+    height: 640px;
+    background-color: azure;
+}
+.col-md-10{
+    height: 640px;
+    background-color: whitesmoke;
+}
+.boxes{
+    width: 760px;
+    height: 550px;
+    border: none;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.box1{
+    background-color: inherit;
+    height: 540px;
+}
+.box2{
+    background-color: white;
+}
+.computer{
+    width: 380px;
+    height: 550px;
+}
+.button{
+    background-color: white;
+    border-radius: 45px;
+    margin-top: 10px;
+}
+.box3{
+    width: 250px;
+    height: 250px;
+    border: none;
+    margin-top: 90px;
+    margin-left: 50px;
+}
+h4{
+    text-align: center;
+    letter-spacing: 6px;
+}
+.hori{
+    width: 40px;
+    border: 2px solid black;
+}
+p{
+    font-size: 10px;
+    line-height: 20px;
+    margin-left: 40px;
+}
+.one{
+    width: 70px;
+    height: 30px;
+    margin-top: -50px;
+}
+.link{
+    width: 70px;
+    height: 30px;
+    margin-top: 140px;
+}
